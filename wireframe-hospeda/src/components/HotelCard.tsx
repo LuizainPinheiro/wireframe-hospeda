@@ -40,7 +40,7 @@ sellerGrupo: {
 
   imagemHotel: {
     width: "100%",
-    height: 300,
+    height: 200,
     borderRadius: 30,
 },
 
